@@ -1,0 +1,2 @@
+$ go mod init github.com/mcsans/go-jwt
+$ go get github.com/asaskevich/govalidator github.com/dgrijalva/jwt-go github.com/gin-gonic/gin golang.org/x/crypto gorm.io/driver/postgres gorm.io/gorm
